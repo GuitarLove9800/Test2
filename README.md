@@ -11,4 +11,4 @@
 --
 
 ### Colaborador 3: 
-(Remplazalo con tu mombre Daniel)
+Daniel romero laynas
