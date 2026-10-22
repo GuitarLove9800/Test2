@@ -6,7 +6,7 @@
 ---
 
 ### Colaborador 2:
-(Remplazalo con tu mombre Aaron)
+## Aaron Diaz 
 
 --
 
